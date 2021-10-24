@@ -8,3 +8,4 @@ h = (duration - d * d1) // h1
 m = (duration - h * h1 - d * d1) // m1
 s = duration % m1
 print(d, 'дн.', h, 'ч.', m, 'мин.', s, 'сек.')
+
